@@ -1,0 +1,35 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+.navh3{
+    font-size: 45px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 800;
+}
+ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+    list-style: none;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(109, 104, 104);
+    padding-top: 25px;
+}
+.hire{
+    color: white;
+    background-color: #FD6E0A;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 18px 18px 25px 25px;
+}
